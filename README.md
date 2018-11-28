@@ -9,9 +9,9 @@ Le circuit est ensuite utilisé avec une carte Arduino et  une puce LoRa.
 Les données récolté serons envoyés via le protocole LoRA sur la plateforme TTN (The things Network).
 
 # Equipement
--Shield Capteur de gas
--Arduino uno
--odule LoRa RN2483 breakout
+- Shield Capteur de gas
+- Arduino uno
+- Module LoRa RN2483 breakout
 
 # Fonctionnalités
 
