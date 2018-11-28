@@ -6,7 +6,7 @@ Le projet à été realiser par AYOUBA Gael et HO Fabian, Etudiant en Informatiq
 # Objectif
 L'objectif de ce projet est de concevoir un circuit imprimé complet (PCB). 
 Le circuit est ensuite utilisé avec une carte Arduino et  une puce LoRa. 
-Les données récolté serons envoyés via le protocole LoRA sur la plateforme TTN (The things Network).
+Les données récolté serons envoyés via le protocole LoRA sur la plateforme TTN (The Things Network).
 
 # Equipement
 - Shield Capteur de gas
@@ -14,7 +14,12 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 - Module LoRa RN2483 breakout
 
 # Fonctionnalités
-
+- Capteur de gas avec le branchement (Neccesitant la realisation en salle blanche)
+- Circuit d’adaptation du capteur de gas vers l’ADC de l’Arduino UNO :
+  - Filtrage des bruits contenant 2 filtre passif et un filtre actif avec l'AOP LTC1050
+  - Filtrage anti-repliement pour realiser l'echantillonage de l'ADC
+- Adaptation du calibre
+ 
 # Contenus
 Ce projet contient le code source et les fichiers de conception du shield :
 
