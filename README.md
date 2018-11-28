@@ -28,7 +28,7 @@ Ce projet contient le code source et les fichiers de conception du shield :
 - Code arduino pour LoRa
 
 # Schemas PCB
-Voici plusieurs fonctionnalités:
+Voici plusieurs fonctionnalités du Schemas:
 
 - La résistance d'entrée (R1) est une resistance de protection, ell protège l'amplificateur opérationnel des décharges électrostatiques. De plus celle ci est associée au condensateur C1 pour filtrer le bruit de tension.
 - Le circuit entre le condensateur C1 et la résistance R2 nous permet de filtrer le bruit de courant.
