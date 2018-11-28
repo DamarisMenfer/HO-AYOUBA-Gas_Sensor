@@ -10,10 +10,12 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 
 # Equipement
 - Shield Capteur de gas
-CapteurGas.png
-- Arduino uno
+![Our Schematic](./CapteurGas.png)
+- Arduino uno 	
+![Our Schematic](./ARDUINO_UNO.png)
 - Module LoRa RN2483 breakout
-RN2483_Breakout.png
+![Our Schematic](./RN2483_Breakout.png)
+
 
 # Fonctionnalités
 - Capteur de gas avec le branchement (Neccesitant la realisation en salle blanche)
