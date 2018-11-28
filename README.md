@@ -10,6 +10,7 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 
 # Equipement
 - Shield Capteur de gas
+CapteurGas.png
 - Arduino uno
 - Module LoRa RN2483 breakout
 RN2483_Breakout.png
