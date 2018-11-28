@@ -30,7 +30,7 @@ Ce projet contient le code source et les fichiers de conception du shield :
 # Schemas PCB
 Conception du schematic :
 
-![Our Schematic](./Schematic.png)
+![Our Schematic](./schemaPCB.png)
 
 Voici plusieurs fonctionnalités du Schemas:
 
