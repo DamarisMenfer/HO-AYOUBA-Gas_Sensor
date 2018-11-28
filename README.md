@@ -35,7 +35,8 @@ Ce projet contient le code source et les fichiers de conception:
 # Schemas PCB
 Conception du schematic :
 
-![Our Schematic](./Pictures/schemaPCB.png)
+<div style="text-align:center"><img src ="./Pictures/schemaPCB.png" /></div>
+
 
 Voici plusieurs fonctionnalités du Schemas:
 
