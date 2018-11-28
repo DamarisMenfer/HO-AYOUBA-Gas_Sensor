@@ -19,7 +19,7 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 
 - Module LoRa RN2483 breakout
 
-![Our Schematic](./Pictures/RN2483_Breakout.png)
+![Our Schematic](./Pictures/RN2483_Breakout.jpg)
 
 
 # Fonctionnalités
@@ -39,7 +39,7 @@ Ce projet contient le code source et les fichiers de conception du shield :
 # Schemas PCB
 Conception du schematic :
 
-![Our Schematic](./schemaPCB.png)
+![Our Schematic](./Pictures/schemaPCB.png)
 
 Voici plusieurs fonctionnalités du Schemas:
 
