@@ -15,11 +15,7 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 
 - Arduino uno 	
 
-![Our Schematic](./Pictures/ARDUINO_UNO.jpg)
-
 - Module LoRa RN2483 breakout
-
-![Our Schematic](./Pictures/RN2483_Breakout.jpg)
 
 
 # Fonctionnalités
