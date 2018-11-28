@@ -15,3 +15,21 @@ Les données récolté serons envoyés via le protocole LoRA sur la plateforme T
 
 # Fonctionnalités
 
+# Contenus
+Ce projet contient le code source et les fichiers de conception du shield :
+
+- La partie schématique, décrivant le circuit électronique implémenté (composants, routage des pins)
+- La partie layout, décrivant la forme de la carte, l’emplacement des différents éléments sur celle-ci et la trajectoire des pistes de routage ainsi qu'une partie 3D.
+- Code arduino pour LoRa
+
+# Schemas PCB
+
+
+
+# PCB footprint sur KiCad
+
+
+# PCB 3D view
+
+
+# Conclusion
