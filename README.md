@@ -49,9 +49,13 @@ Voici plusieurs fonctionnalités du Schemas:
 
 
 # PCB footprint sur KiCad
+Conception du Layout:
 ![Our Schematic](./Pictures/pcb.png)
 
+
+
 # PCB 3D view
+Vision 3D
 ![Our Schematic](./Pictures/3D.png)
 
 # Conclusion
