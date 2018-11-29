@@ -61,6 +61,7 @@ Afin de realiser le footprint correctement, nous avons choisis de suivre les poi
 Comme le montre l'image ci-dessus, il s'agit d'un tracé sur une seule face. 
 # PCB 3D view
 Vision 3D:
-Vous pouvez voir ci-dessous une représentation 3D de notre conception. De plus le choix des composant a été réalisé sous la condition qu'il soit traversant et le plus petit possible.
+Vous pouvez voir ci-dessous une représentation 3D de notre conception. 
+Le choix des composant a été réalisé sous la condition qu'il soit traversant et le plus petit possible.
 
 ![Our Schematic](./Pictures/3D.png)
