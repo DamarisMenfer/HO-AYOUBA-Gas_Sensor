@@ -50,12 +50,17 @@ Voici plusieurs fonctionnalités du Schemas:
 
 # PCB footprint sur KiCad
 Conception du Layout:
+
 ![Our Schematic](./Pictures/pcb.png)
 
+Afin de realiser le footprint correctement, nous avons choisis de suivre les point suivants:
+- Nous avons choisis une largeur de piste de 0.8 mm, afin que notre constructeur puisse le réaliser avec son équipements.
+- Nous avons decidé d'inserer uniquement la connectique de la plaque RN2483 Breakout afin d'optimiser l'espace pour le footprint. D'autant plus que nous considerons que la carte RN2483 ne sera pas directement integré sur le shield mais relié par des files (connecteur).
+- Nous avons utilisé une couche de GND au verso de plaque nous permettant d'optimiser encore plus notre espace et cela nous permit de réduire le nombre de connection.
 
-
+Comme le montre l'image ci-dessus, il s'agit d'un tracé sur une seule face. 
 # PCB 3D view
-Vision 3D
-![Our Schematic](./Pictures/3D.png)
+Vision 3D:
+Vous pouvez voir ci-dessous une représentation 3D de notre conception. De plus le choix des composant a été réalisé sous la condition qu'il soit traversant et le plus petit possible.
 
-# Conclusion
+![Our Schematic](./Pictures/3D.png)
